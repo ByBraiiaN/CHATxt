@@ -1,0 +1,40 @@
+*{
+    font-family: inherit;
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body{
+    background: #3498DB;
+}
+
+.container{
+    max-width: 800px;
+}
+
+header{
+    margin-top: 50px;
+}
+
+textarea{
+    resize: none;
+}
+
+#chat{
+    padding: 10px;
+    padding-bottom: 30px;
+    height: 350px;
+    border: 1px solid #CCC;
+    overflow-y: scroll;
+    margin-bottom: 10px;
+    background: #F2F4F4;
+}
+
+#enviar{
+    margin-top: 10px;
+    float: right;
+}
+

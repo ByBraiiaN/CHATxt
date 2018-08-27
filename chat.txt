@@ -1,0 +1,1 @@
+<b><big>Samuel</b></big> dice: Hola carlitos, como va?<br><b><big>Carlos</b></big> dice: Bien Samuel y tú?<br><b><big>Samuel</b></big> dice: Excelente amigo!<br><b><big>Carlos</b></big> dice: Nos vemos! un saludo<br><b><big>Samuel</b></big> dice: Nos vemos. Suerte!<br>
